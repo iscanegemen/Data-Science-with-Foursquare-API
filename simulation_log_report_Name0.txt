@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Name0
+
+            Location:
+                - Longitude : 20° N
+                - Latitude  : 13° E
+
+            Services:
+            
+            1 - breakfast
+			2 - dessert
+			
+            
+            Average Price      : 21.314192849404115
+            Average Unit Cost  : 10.638819068255687
+
+            Sales Volume       : 923
+
+            Fixed Cost         : 53405
+
+            Tax Rate           : 0.0014000000000000002
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Name0's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 21.314192849404115
+                   | Unit Cost     : 10.638819068255687
+                   +------------------
+                   | Contribution Margin : 10.675373781148428
+                   | Sales Volume        : 923
+                   | Revenue             : 46248 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 28905 (Monthly)
+                   | Total Fixed Cost    : 53405 (Monthly)
+                   | Total Cost          : 82310
+                   +------------------
+                   | Gross Margin        : 17343
+                   | Taxes               : 24.280200000000004
+                   +------------------
+                   | NET INCOME          : 17318.7198
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 4126
+Lon: 8
+Lat: 6
+Cash: 28
+Max Restaurant Range: 5836
+
+---CUSTOMER---
+ID: 8157
+Lon: 2
+Lat: 1
+Cash: 28
+Max Restaurant Range: 8292
+
+---CUSTOMER---
+ID: 1343
+Lon: 3
+Lat: 8
+Cash: 68
+Max Restaurant Range: 8071
+
+---CUSTOMER---
+ID: 7560
+Lon: 4
+Lat: 3
+Cash: 28
+Max Restaurant Range: 4581
+
+---CUSTOMER---
+ID: 9693
+Lon: 8
+Lat: 1
+Cash: 82
+Max Restaurant Range: 6580

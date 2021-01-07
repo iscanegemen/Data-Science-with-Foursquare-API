@@ -6,6 +6,7 @@
 from math import sin, cos, sqrt, atan2
 import random
 import numpy
+import matplotlib.pyplot as plt
 
 # get customer and company classes
 from Customer import Customer
@@ -330,6 +331,25 @@ class SimulationEnvironment():
 
             # close the file properly
             companyFile.close()
+            
+    def plot_price_cost(self, company):
+        plt.plot(company.price_list, company.cost_list, "o--")
+        
+        plt.axhline(y=0, color='r', 
+            linewidth=0.5, linestyle='-')
+        
+        plt.axvline(x=0, color='r', 
+            linewidth=0.5, linestyle='-')
+        
+        plt.xlabel("price"); plt.ylabel("cost")
+        
+        plt.legend(["corresponding cost"])
+        
+        plt.title("price vs. cost")
+        
+        plt.grid()
+        
+        plt.show()
 
     # write simulation summary
     def report_simulation_summary(self,output_path="summary_report.txt"):

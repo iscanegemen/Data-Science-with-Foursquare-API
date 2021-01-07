@@ -73,7 +73,7 @@ class Company():
         self.fixedCost          = fixedCost
         self.taxRate            = taxRate / 100
 
-        # calculate remain properties
+        # calculate remaining properties
         self.contributionMargin = self.calculate_contribution_margin()
         self.revenue            = self.calculate_revenue()
         self.costOfGoodSold     = self.calculate_COGS()

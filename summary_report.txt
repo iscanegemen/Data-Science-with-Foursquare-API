@@ -1,0 +1,17 @@
+
+
+ SIMULATION SUMMARY REPORT 
+
+
+Company: Name0 Avg Price: 21.31	 Avg Cost: 10.64	 Contribution Margin: 10.68	 Sales Vol: 923
+----------------------------------------------------------------------------
+Company: Name1 Avg Price: 20.81	 Avg Cost: 10.41	 Contribution Margin: 10.41	 Sales Vol: 1449
+----------------------------------------------------------------------------
+Company: Name2 Avg Price: 26.01	 Avg Cost: 12.95	 Contribution Margin: 13.07	 Sales Vol: 1338
+----------------------------------------------------------------------------
+Company: Name3 Avg Price: 21.27	 Avg Cost: 10.64	 Contribution Margin: 10.62	 Sales Vol: 938
+----------------------------------------------------------------------------
+Company: Name4 Avg Price: 23.96	 Avg Cost: 11.84	 Contribution Margin: 12.12	 Sales Vol: 830
+----------------------------------------------------------------------------
+
+All Rights Reserved @2020

@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Name3
+
+            Location:
+                - Longitude : 20° N
+                - Latitude  : 17° E
+
+            Services:
+            
+            1 - salad
+			2 - drinks
+			
+            
+            Average Price      : 21.26545842217484
+            Average Unit Cost  : 10.64141791044776
+
+            Sales Volume       : 938
+
+            Fixed Cost         : 70954
+
+            Tax Rate           : 0.0019
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Name3's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 21.26545842217484
+                   | Unit Cost     : 10.64141791044776
+                   +------------------
+                   | Contribution Margin : 10.624040511727081
+                   | Sales Volume        : 938
+                   | Revenue             : 23904 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 12948 (Monthly)
+                   | Total Fixed Cost    : 70954 (Monthly)
+                   | Total Cost          : 83902
+                   +------------------
+                   | Gross Margin        : 10956
+                   | Taxes               : 20.8164
+                   +------------------
+                   | NET INCOME          : 10935.1836
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 1780
+Lon: 3
+Lat: 5
+Cash: 68
+Max Restaurant Range: 9951
+
+---CUSTOMER---
+ID: 5689
+Lon: 10
+Lat: 10
+Cash: 96
+Max Restaurant Range: 8083
+
+---CUSTOMER---
+ID: 6502
+Lon: 8
+Lat: 4
+Cash: 95
+Max Restaurant Range: 7736
+
+---CUSTOMER---
+ID: 6321
+Lon: 8
+Lat: 5
+Cash: 35
+Max Restaurant Range: 7932
+
+---CUSTOMER---
+ID: 1575
+Lon: 3
+Lat: 5
+Cash: 91
+Max Restaurant Range: 9797

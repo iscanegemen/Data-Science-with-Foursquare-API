@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Name4
+
+            Location:
+                - Longitude : 19° N
+                - Latitude  : 18° E
+
+            Services:
+            
+            1 - salad
+			2 - drinks
+			
+            
+            Average Price      : 23.96144578313253
+            Average Unit Cost  : 11.83921686746988
+
+            Sales Volume       : 830
+
+            Fixed Cost         : 13985
+
+            Tax Rate           : 0.002
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Name4's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 23.96144578313253
+                   | Unit Cost     : 11.83921686746988
+                   +------------------
+                   | Contribution Margin : 12.12222891566265
+                   | Sales Volume        : 830
+                   | Revenue             : 15633 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 11580 (Monthly)
+                   | Total Fixed Cost    : 13985 (Monthly)
+                   | Total Cost          : 25565
+                   +------------------
+                   | Gross Margin        : 4053
+                   | Taxes               : 8.106
+                   +------------------
+                   | NET INCOME          : 4044.894
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 9001
+Lon: 10
+Lat: 10
+Cash: 30
+Max Restaurant Range: 5907
+
+---CUSTOMER---
+ID: 8005
+Lon: 6
+Lat: 6
+Cash: 95
+Max Restaurant Range: 4467
+
+---CUSTOMER---
+ID: 8130
+Lon: 4
+Lat: 3
+Cash: 88
+Max Restaurant Range: 9485
+
+---CUSTOMER---
+ID: 8463
+Lon: 5
+Lat: 5
+Cash: 61
+Max Restaurant Range: 5843
+
+---CUSTOMER---
+ID: 1272
+Lon: 3
+Lat: 4
+Cash: 86
+Max Restaurant Range: 7257

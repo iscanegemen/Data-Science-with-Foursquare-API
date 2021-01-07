@@ -1,0 +1,87 @@
+
+ COMPANY DESCRIPTION
+
+            Company Name: Name1
+
+            Location:
+                - Longitude : 18° N
+                - Latitude  : 14° E
+
+            Services:
+            
+            1 - dessert
+			2 - breakfast
+			
+            
+            Average Price      : 20.814354727398207
+            Average Unit Cost  : 10.405079365079365
+
+            Sales Volume       : 1449
+
+            Fixed Cost         : 91459
+
+            Tax Rate           : 0.001
+
+
+        
+----------------------------------------------------------------------------
+ COMPANY INCOME STATEMENT
+
+                    ==========  Name1's MONTHLY INCOME STATEMENT  ==========
+                   +------------------------------------------------------
+                   | Unit Price    : 20.814354727398207
+                   | Unit Cost     : 10.405079365079365
+                   +------------------
+                   | Contribution Margin : 10.409275362318843
+                   | Sales Volume        : 1449
+                   | Revenue             : 36869 (Monthly)
+                   +------------------
+                   | Cost of Goods Sold  : 30457 (Monthly)
+                   | Total Fixed Cost    : 91459 (Monthly)
+                   | Total Cost          : 121916
+                   +------------------
+                   | Gross Margin        : 6412
+                   | Taxes               : 6.412
+                   +------------------
+                   | NET INCOME          : 6405.588
+                   +------------------------------------------------------
+
+
+        
+----------------------------------------------------------------------------
+ TARGET CUSTOMER ANALYSIS
+
+---CUSTOMER---
+ID: 1878
+Lon: 4
+Lat: 8
+Cash: 82
+Max Restaurant Range: 9876
+
+---CUSTOMER---
+ID: 3966
+Lon: 6
+Lat: 1
+Cash: 44
+Max Restaurant Range: 8417
+
+---CUSTOMER---
+ID: 3643
+Lon: 7
+Lat: 9
+Cash: 82
+Max Restaurant Range: 9807
+
+---CUSTOMER---
+ID: 8338
+Lon: 7
+Lat: 8
+Cash: 98
+Max Restaurant Range: 2616
+
+---CUSTOMER---
+ID: 9794
+Lon: 10
+Lat: 2
+Cash: 51
+Max Restaurant Range: 9159
