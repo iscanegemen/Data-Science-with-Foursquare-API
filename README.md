@@ -5,7 +5,7 @@ Project for EE393 Python for Engineers
 
 Ozan Yurtsever  
 Emin Kartcı  
-Yamac Yazar  
+Yamac Demirkan  
 Egemen İşcan  
 Muhammed Ali Kumaşoğlu
 
