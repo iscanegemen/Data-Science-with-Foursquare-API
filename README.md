@@ -3,11 +3,11 @@ Project for EE393 Python for Engineers
 
 ### Contributers:
 
-Ozan Yurtsever
-Emin Kartcı
-Yamaç Demirkan
-Egemen İşcan
-Muhammed Ali Kumaşoğlu**S018505**
+Ozan Yurtsever 
+Emin Kartcı 
+Yamaç Demirkan 
+Egemen İşcan 
+Muhammed Ali Kumaşoğlu **S018505**  
 
 In this project we have tried to demonstrate our **data analysis and map creation skills** with Python. In order to achieve this task, we obtained coffee shop data from the **Foursquare Places API**. Then we created various hypotethical scenarios to create some business problems and solve them.
 
