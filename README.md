@@ -3,7 +3,7 @@ Project for EE393 Python for Engineers
 
 ### Contributers:
 
-****Ozan Yurtsever**** // **S01564** // **EE Engineering** <br/>
+<span style="color:red">****Ozan Yurtsever**** </span>// **S01564** // **EE Engineering** <br/>
 ****Emin Kartcı**** // **S014877** // **EE Engineering** <br/>
 ****Yamaç Demirkan Yılmaz**** // **S018368** // **Computer Science** <br/>
 ****Egemen İşcan**** // **S018748** // **Computer Science** <br/>
