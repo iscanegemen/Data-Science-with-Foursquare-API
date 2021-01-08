@@ -15,7 +15,7 @@ We shall now briefly explain how each and every one of the files in the project 
 
 ## Company.py 
 
-In this class, we describe all the functionalities of a real company like its name, location, sales volume etc. Then, we implemented all the necessary functions to prepare an income statement of the company. Also, we can determine its break-even point, present value and future value with additional functions we have implemented. Overall, one can understand what would it take establish a company from scratch with high-precision statistics and information.
+In this class, we describe all the functionalities of a real company like its name, location, sales volume etc. Then, **we implemented all the necessary functions to prepare an income statement of the company**. Also, we can determine its **break-even point, present value and future value with additional functions we have implemented**. Overall, one can understand what would it take establish a company from scratch with high-precision statistics and information.
 
 ## Customer.py
 
@@ -27,7 +27,7 @@ Using the Foursquare Places API, we have come up with a large dataset which we c
 
 ## EE393_Semester_Project_Map_SimpleGUI_CompanyObject_Version2.ipynb
 
-This class is actually a **graphical user interface** which contains the attributes and a general report of a company. It **displays everything in the Company.py in a GUI**.
+This class is actually a **graphical user interface** which contains the **attributes and a general report** of a company. It **displays everything in the Company.py in a GUI**.
 
 ## GetClosestCompanies.py
 
@@ -39,7 +39,7 @@ It represents the visualization of the found possible **"rival"** companies.
 
 ## Near_Class.ipynb 
 
-It prints all the necessary information about the possible "rival" companies like their tip count, their photo count on the Web, their ratings, their likes etc.
+It **prints all the necessary information about the possible "rival" companies** like their tip count, their photo count on the Web, their ratings, their likes etc.
 
 ## SimulationExecution.py
 
