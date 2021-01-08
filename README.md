@@ -27,7 +27,7 @@ Using the Foursquare Places API, we have come up with a large dataset which we c
 
 ## EE393_Semester_Project_Map_SimpleGUI_CompanyObject_Version2.ipynb
 
-This class is actually a graphical user interface which contains the attributes and a general report of a company. It displays everything in the Company.py in a GUI.
+This class is actually a **graphical user interface** which contains the attributes and a general report of a company. It **displays everything in the Company.py in a GUI**.
 
 ## GetClosestCompanies.py
 
