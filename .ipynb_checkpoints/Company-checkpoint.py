@@ -73,7 +73,7 @@ class Company():
         self.fixedCost          = fixedCost
         self.taxRate            = taxRate / 100
 
-        # calculate remain properties
+        # calculate remaining properties
         self.contributionMargin = self.calculate_contribution_margin()
         self.revenue            = self.calculate_revenue()
         self.costOfGoodSold     = self.calculate_COGS()
@@ -236,17 +236,23 @@ class Company():
             return incomeStatementStr
         
     def plotting_price_cost(self):
-        plt.plot(self.price_list, self.cost_list, "o--")
+        plt.plot(self.priceList, "g--")
+        plt.plot(self.costList, "o--")
         plt.axhline(y=0, color='r', 
             linewidth=0.5, linestyle='-')
         plt.axvline(x=0, color='r', 
             linewidth=0.5, linestyle='-')
-        plt.xlabel("price"); plt.ylabel("cost")
-        plt.legend(["corresponding cost"])
-        plt.title("price vs. cost")
+        plt.xlabel("Price"); plt.ylabel("Cost")
+        plt.legend(["Corresponding Cost","Price"])
+        plt.title("Price vs. Cost")
         plt.grid()
         plt.show()
-
+        
+    def plotting_result():
+        x_labels = ["PROFIT", "Avg Price", "Avg Cost", "Contribution Margin", "Sales Vol"]
+        plt.bar(x_labels, [96, 21.31, 10.53, 10.78, 899], color = "g") # CHANGE THIS ARRAY TO DATA ARRAY FOR THAT COMPANY
+        plt.legend(["Profit is shown as %, e.g, 96%"])
+        plt.show()
     # plot the result of break even analysis
     def plot_break_even_point(self):
 

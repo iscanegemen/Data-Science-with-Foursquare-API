@@ -33,3 +33,7 @@ simEnv.report_company_results()
 simEnv.report_simulation_summary()
 
 competitor3.plot_break_even_point()
+
+
+
+competitor1.plotting_price_cost()
