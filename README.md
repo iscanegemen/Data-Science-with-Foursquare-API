@@ -3,11 +3,11 @@ Project for EE393 Python for Engineers
 
 ### Contributers:
 
-***Ozan Yurtsever*** // **S01564** // **EE Engineering** <br/>
-***Emin Kartcı*** // **S014877** // **EE Engineering** <br/>
-***Yamaç Demirkan Yılmaz*** // **S018368** // **Computer Science** <br/>
-***Egemen İşcan*** // **S018748** // **Computer Science** <br/>
-***Muhammed Ali Kumaşoğlu*** // **S018505** // **EE Engineering**  <br/>
+****Ozan Yurtsever**** // **S01564** // **EE Engineering** <br/>
+****Emin Kartcı**** // **S014877** // **EE Engineering** <br/>
+****Yamaç Demirkan Yılmaz**** // **S018368** // **Computer Science** <br/>
+****Egemen İşcan**** // **S018748** // **Computer Science** <br/>
+****Muhammed Ali Kumaşoğlu**** // **S018505** // **EE Engineering**  <br/>
 
 In this project we have tried to demonstrate our **data analysis and map creation skills** with Python. In order to achieve this task, we obtained coffee shop data from the **Foursquare Places API**. Then we created various hypotethical scenarios to create some business problems and solve them.
 
